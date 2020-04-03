@@ -19,4 +19,7 @@ public class MeanBucket {
         return mean;
     }
 
+    public int getCount() {
+        return count;
+    }
 }
